@@ -1,5 +1,7 @@
 # Yet Another Unpacker for 1C:Enterprise to Sync Depot with Git for Code Review
 
+[![Join the chat at https://gitter.im/silverbulleters/vanessa-unpack](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-unpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Консольный синхронизатор хранилища 1С и git
 
 * требует установленного 1Script версии => 1.0.9.100 [Официальный репозиторий](https://bitbucket.org/EvilBeaver/1script/wiki/Home) 
